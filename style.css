@@ -54,6 +54,7 @@ a {
     padding: 20px 30px 50px;
     color: #000;
     flex-wrap: nowrap;
+    background: radial-gradient(white, rgb(243, 102, 77));
 }
 
 .promo-content {
